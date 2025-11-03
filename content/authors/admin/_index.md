@@ -76,9 +76,9 @@ education:
   - area: BSc in Computer Science and Engineering
     institution: Bangladesh University of Engineering and Technology (BUET)
     icon: ""
-    date_start: Feb 2017
-    date_end: May 2022
-    summary: |
+    date_start: 2017-02-01
+    date_end: 2019-12-01
+    summary: fnfowefnwof
       GPA: 3.54/4.0
 
       

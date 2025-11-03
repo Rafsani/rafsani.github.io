@@ -78,7 +78,7 @@ education:
     icon: ""
     date_start: Feb 2017
     date_end: May 2022
-    summary: fnfowefnwof
+    summary: |
       GPA: 3.54/4.0
 
       

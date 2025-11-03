@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,8 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'frafsani@asu,edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
@@ -48,10 +46,11 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Deep Learning
+  - Medical imaging
+  - Large Models
+  - Foundation Models
 
 education:
   - area: PhD in Computer Science (ongoing)
@@ -60,10 +59,10 @@ education:
     date_start: 2023-08-21
     
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      Working on developing foundation models for medical imaging to enable automated, accurate, and scalable healthcare diagnosis powered by artificial intelligence.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
   # - area: MS Computer Science
   #   institution: Carnegie Mellon University
   #   icon: ""
@@ -79,45 +78,91 @@ education:
     date_start: 2017-02-01
     date_end: 2019-12-01
     summary: |
+      
       GPA: 3.54/4.0
 
       
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Graduate Research Associate
+    company_name: Arizona State University
+    company_url: 'https://labs.engineering.asu.edu/wulab/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-01-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+    summary: |
+      Conducting research at the ASU-Mayo Center for Innovative Imaging, focusing on AI-driven medical imaging. Designed and implemented deep learning pipelines for segmentation, anomaly detection, and multi-modal brain MRI analysis. Authored and co-authored publications in leading venues, including WACV, ICCV, and Nature Scientific Reports.
+  - position: Graduate Teaching Associate
+    company_name: Arizona State University
+    company_url: 'https://www.asu.edu/'
     icon: ''
-    date_start: 2019-06-01
+    date_start: 2013-08-07
     date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Served as a Teaching Associate for CSE 110, a programming-based computer science course. Delivered lectures across four sections, engaging and managing a cohort of over 350 students.
+  - position: Software Engineer AI/ML
+    company_name: IQVIA
+    company_url: 'https://www.iqvia.com/'
+    icon: ''
+    date_start: 2022-08-01
+    date_end: 2023-07-30
+    summary: |
+      Developed Python-based web and ML frameworks with healthcare data for a recommendation system. Contributed to the "Next Best Actions" project, which won the Stevie Award in 2023.
+  - position: Software Engineer 
+    company_name: ICT Cell BUET
+    company_url: 'https://ictcell.buet.ac.bd/'
+    icon: ''
+    date_start: 2021-04-01
+    date_end: 2022-11-30
+    summary: |
+      Worked as a full-stack software engineer. Built responsive and interactive system using Django, React.js integrated with PostgreSQL ensuring seamless user experience.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python & PyTorch
+#         description: ''
+#         percent: 95
+#         icon: code-bracket
+#       - name: Machine Learning
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: Cloud Computing (AWS/GCP)
+#         description: ''
+#         percent: 85
+#         icon: cloud
 skills:
   - name: Technical Skills
+    color: '#0284c7'
+    color_border: '#0ea5e9'
     items:
-      - name: Python & PyTorch
-        description: ''
+      - name: Programming Languages
+        description: 'Python, Java, C, C++, HTML/CSS, JavaScript, PHP, SQL'
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
+      - name: Python Libraries
+        description: 'NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Pillow, Axios, Keras'
+        percent: 90
+        icon: cube
+      - name: Machine Learning & AI
+        description: 'PyTorch, TensorFlow, Keras, HuggingFace, MONAI, Grad-CAM'
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
+        icon: brain
+      - name: Developer Tools & Cloud
+        description: 'GitHub, Docker, Kubernetes, Heroku, AWS (S3, EC2), Azure, GCP'
+        percent: 90
         icon: cloud
+      - name: Web Frameworks
+        description: 'Django, Laravel, Node.js, React, Express, Next.js'
+        percent: 85
+        icon: globe
+      - name: Databases
+        description: 'Oracle, MySQL, Firebolt, Snowflake, MongoDB'
+        percent: 80
+        icon: database
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -138,7 +183,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
+  - name: Bengali
     percent: 50
 
 # Awards.
@@ -146,27 +191,46 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: Gerald Farin Memorial Fellowship
+    url: https://scai.engineering.asu.edu/
+    date: '2024-08-15'
+    awarder: Arizona State University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded for academic excellence and research potential in computer vision for the academic years 2024–2025 and 2025–2026.
+
+  - title: Graduate College Travel Award
+    url: https://graduate.asu.edu/
+    date: '2025-04-10'
+    awarder: Arizona State University
+    icon: hero/plane
+    summary: |
+      Received travel support to present research at the American Academy of Neurology Annual Meeting 2025.
+
+  - title: SCAI Conference Award
+    url: https://scai.engineering.asu.edu/
+    date: '2025-08-20'
+    awarder: School of Computing and Augmented Intelligence, ASU
+    icon: hero/presentation-chart-bar
+    summary: |
+      Awarded for presenting research work at the IEEE International Conference on Computer Vision (ICCV) 2025.
+
+  - title: Dean’s List
+    url: https://www.buet.ac.bd/
+    date: '2021-06-01'
+    awarder: Bangladesh University of Engineering and Technology
+    icon: hero/star
+    summary: |
+      Recognized for outstanding academic performance in the final year of undergraduate studies.
+
+  - title: Finalist – Blockchain Olympiad
+    url: https://blochchainolympiad.org/
+    date: '2021-03-15'
+    awarder: ICT Division, Bangladesh
+    icon: hero/award
+    summary: |
+      Achieved finalist position in the national Blockchain Olympiad organized by the ICT Division of Bangladesh.
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Fazle Rafsani is a Computer Science Ph.D. student at Arizona State University and a graduate research assistant at the ASU-Mayo Center for Innovative Imaging (AMCII). My research focuses on developing computer vision, deep learning, and generative modeling methods for medical image analysis—spanning supervised, weakly-supervised, self-supervised, and unsupervised lesion segmentation, detection, and classification. I also explore large language models and diffusion-based architectures to advance multimodal understanding and improve healthcare outcomes through AI. I serve as a reviewer for several leading conferences and journals in my field.

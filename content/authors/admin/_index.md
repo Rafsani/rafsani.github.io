@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 
+  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -78,7 +78,7 @@ education:
     icon: ""
     date_start: Feb 2017
     date_end: May 2022
-    summary: |
+    summary: fnfowefnwof
       GPA: 3.54/4.0
 
       

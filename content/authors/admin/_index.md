@@ -78,7 +78,7 @@ education:
     icon: ""
     date_start: 2017-02-01
     date_end: 2019-12-01
-    summary: fnfowefnwof
+    summary: |
       GPA: 3.54/4.0
 
       

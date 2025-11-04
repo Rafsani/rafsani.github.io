@@ -47,6 +47,7 @@ sections:
         His contributions include developing DinoAtten3D, a slice-level attention aggregation framework that enhances 3D brain MRI anomaly classification, and AnoFPDM, a diffusion-based anomaly detection method that removes the need for pixel-level supervision. Through NIH- and DoD-funded projects, he applies foundation models like BioMedCLIP and MedSAM to tasks such as headache subtype prediction and thyroid nodule segmentation, emphasizing model interpretability through Grad-CAM-based biomarker visualization.
 
         Rafsani’s research bridges cutting-edge vision transformers, contrastive learning, and diffusion models to create scalable, data-efficient solutions for neurological disorder diagnosis.   His work has appeared in top venues including ICCV, WACV, and Nature Scientific Reports, reflecting both scientific innovation and translational impact toward clinically explainable AI systems in medical imaging.
+        
     design:
       columns: '1'
   - block: collection

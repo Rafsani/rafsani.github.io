@@ -68,8 +68,8 @@ education:
   #   icon: ""
   #   date_start: 2013-09-01
   #   date_end: 2015-05-31
-  #   summary: |
-  #     GPA: 4.0/4.0
+    summary: |
+      GPA: 4.0/4.0
 
   #     Specialized in machine learning and robotics.
   - area: BSc in Computer Science and Engineering
@@ -78,7 +78,6 @@ education:
     date_start: 2017-02-01
     date_end: 2019-12-01
     summary: |
-      
       GPA: 3.54/4.0
 
       

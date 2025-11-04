@@ -1,5 +1,5 @@
 ---
-title: 'DinoAtten3D: Slice-Level Attention Aggregation of DinoV2 for 3D Brain MRI Anomaly Classification'
+title: 'AnoFPDM: Anomaly Detection with Forward Process of Diffusion Models for Brain MRI'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

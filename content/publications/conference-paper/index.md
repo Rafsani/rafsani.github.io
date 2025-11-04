@@ -19,7 +19,7 @@ author_notes:
 date: '2025-07-10T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '22025-07-10T00:00:00Z'
+publishDate: '2025-07-10T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -52,6 +52,7 @@ links:
     url: "https://openaccess.thecvf.com/content/ICCV2025W/ADFM/papers/Rafsani_DinoAtten3D_Slice-Level_Attention_Aggregation_of_DinoV2_for_3D_Brain_MRI_ICCVW_2025_paper.pdf"
   - type: code
     url: https://github.com/Rafsani/DinoAtten3D.git
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

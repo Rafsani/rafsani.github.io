@@ -11,6 +11,10 @@ authors:
   - Todd J. Schwedt
   - Teresa Wu
 
+# Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2025-07-10T00:00:00Z'
 
@@ -72,11 +76,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

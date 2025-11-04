@@ -184,7 +184,7 @@ languages:
   - name: English
     percent: 100
   - name: Bengali
-    percent: 50
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

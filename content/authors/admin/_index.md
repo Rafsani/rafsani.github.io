@@ -142,27 +142,27 @@ skills:
       - name: Programming Languages
         description: 'Python, Java, C, C++, HTML/CSS, JavaScript, PHP, SQL'
         percent: 95
-        icon: code-bracket
+       # icon: code-bracket
       - name: Python Libraries
         description: 'NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, Pillow, Axios, Keras'
         percent: 90
-        icon: cube
+        #icon: cube
       - name: Machine Learning & AI
         description: 'PyTorch, TensorFlow, Keras, HuggingFace, MONAI, Grad-CAM'
         percent: 100
-        icon: brain
+       # icon: brain
       - name: Developer Tools & Cloud
         description: 'GitHub, Docker, Kubernetes, Heroku, AWS (S3, EC2), Azure, GCP'
         percent: 90
-        icon: cloud
+        #icon: cloud
       - name: Web Frameworks
         description: 'Django, Laravel, Node.js, React, Express, Next.js'
         percent: 85
-        icon: globe
+       # icon: globe
       - name: Databases
         description: 'Oracle, MySQL, Firebolt, Snowflake, MongoDB'
         percent: 80
-        icon: database
+       # icon: database
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

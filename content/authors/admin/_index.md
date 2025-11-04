@@ -60,6 +60,8 @@ education:
     
     summary: |
       Working on developing foundation models for medical imaging to enable automated, accurate, and scalable healthcare diagnosis powered by artificial intelligence.
+      
+      GPA: 4.0/4.0
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com/thesis.pdf'
@@ -68,8 +70,7 @@ education:
   #   icon: ""
   #   date_start: 2013-09-01
   #   date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      
 
   #     Specialized in machine learning and robotics.
   - area: BSc in Computer Science and Engineering

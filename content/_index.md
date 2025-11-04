@@ -106,8 +106,11 @@ sections:
       title: Professional Experience
       subtitle: ''
       text: ''
+      filters:
+        folders:
+          - experience
       # Page type to display. E.g. post, talk, publication...
-      page_type: blog
+      # page_type: experience
       # Choose how many pages you would like to display (0 = all pages)
       # count: 5
       # # Filter on criteria
@@ -120,9 +123,9 @@ sections:
       #   exclude_past: false
       #   publication_type: ''
       # Choose how many pages you would like to offset by
-      offset: 0
+      # offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      # order: desc
       design:
         # Choose a layout view
         view: card

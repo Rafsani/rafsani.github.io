@@ -42,11 +42,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Fazle Rafsani’s research centers on advancing foundation and generative models for medical image analysis, with a focus on improving automated diagnosis and interpretability in healthcare. As a Ph.D. student and research associate at the ASU-Mayo Center for Innovative Imaging (AMCII), his work integrates computer vision, deep learning, and multimodal learning to analyze complex medical imaging data such as MRI and CT scans.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        His contributions include developing DinoAtten3D, a slice-level attention aggregation framework that enhances 3D brain MRI anomaly classification, and AnoFPDM, a diffusion-based anomaly detection method that removes the need for pixel-level supervision. Through NIH- and DoD-funded projects, he applies foundation models like BioMedCLIP and MedSAM to tasks such as headache subtype prediction and thyroid nodule segmentation, emphasizing model interpretability through Grad-CAM-based biomarker visualization.
 
-        Please reach out to collaborate 😃
+        Rafsani’s research bridges cutting-edge vision transformers, contrastive learning, and diffusion models to create scalable, data-efficient solutions for neurological disorder diagnosis.   His work has appeared in top venues including ICCV, WACV, and Nature Scientific Reports, reflecting both scientific innovation and translational impact toward clinically explainable AI systems in medical imaging.
     design:
       columns: '1'
   - block: collection

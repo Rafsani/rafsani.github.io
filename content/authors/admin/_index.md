@@ -195,7 +195,7 @@ awards:
     url: https://scai.engineering.asu.edu/
     date: '2024-08-15'
     awarder: Arizona State University
-    icon: hero/academic-cap
+   # icon: hero/academic-cap
     summary: |
       Awarded for academic excellence and research potential in computer vision for the academic years 2024–2025 and 2025–2026.
 
@@ -203,7 +203,7 @@ awards:
     url: https://graduate.asu.edu/
     date: '2025-04-10'
     awarder: Arizona State University
-    icon: hero/plane
+    #icon: hero/plane
     summary: |
       Received travel support to present research at the American Academy of Neurology Annual Meeting 2025.
 
@@ -211,7 +211,7 @@ awards:
     url: https://scai.engineering.asu.edu/
     date: '2025-08-20'
     awarder: School of Computing and Augmented Intelligence, ASU
-    icon: hero/presentation-chart-bar
+    #icon: hero/presentation-chart-bar
     summary: |
       Awarded for presenting research work at the IEEE International Conference on Computer Vision (ICCV) 2025.
 
@@ -219,7 +219,7 @@ awards:
     url: https://www.buet.ac.bd/
     date: '2021-06-01'
     awarder: Bangladesh University of Engineering and Technology
-    icon: hero/star
+    #icon: hero/star
     summary: |
       Recognized for outstanding academic performance in the final year of undergraduate studies.
 
@@ -227,7 +227,7 @@ awards:
     url: https://blochchainolympiad.org/
     date: '2021-03-15'
     awarder: ICT Division, Bangladesh
-    icon: hero/award
+    #icon: hero/award
     summary: |
       Achieved finalist position in the national Blockchain Olympiad organized by the ICT Division of Bangladesh.
 

@@ -59,8 +59,6 @@ education:
     date_start: 2023-08-21
     
     summary: |
-      Working on developing foundation models for medical imaging to enable automated, accurate, and scalable healthcare diagnosis powered by artificial intelligence.
-      
       GPA: 4.0/4.0
     # button:
     #   text: 'Read Thesis'

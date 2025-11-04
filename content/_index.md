@@ -39,7 +39,7 @@ sections:
         is_education_first: true
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research'
       subtitle: ''
       text: |-
         Fazle Rafsani’s research centers on advancing foundation and generative models for medical image analysis, with a focus on improving automated diagnosis and interpretability in healthcare. As a Ph.D. student and research associate at the ASU-Mayo Center for Innovative Imaging (AMCII), his work integrates computer vision, deep learning, and multimodal learning to analyze complex medical imaging data such as MRI and CT scans.

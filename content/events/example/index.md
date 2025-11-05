@@ -17,8 +17,8 @@ abstract: 'In this study, we propose an attention-based global aggregation frame
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-01T13:00:00Z'
-date_end: '2025-10-01T15:00:00Z'
+date: '2025-10-20T13:00:00Z'
+date_end: '2025-10-20T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

@@ -110,9 +110,9 @@ sections:
   #   #   spacing:
   #   #     padding: [0, 0, 0, 0]
 
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
+  #   design:
+  #     card:
+  #       # Card background color (CSS class)
+  #       css_class: 'bg-primary-300 dark:bg-primary-700'
+  #       css_style: ''
 ---

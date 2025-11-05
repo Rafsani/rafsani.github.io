@@ -45,6 +45,7 @@ sections:
     design:
       view: compact
       columns: 1
+      show_summary: false
   - block: resume-experience
     content:
       username: admin

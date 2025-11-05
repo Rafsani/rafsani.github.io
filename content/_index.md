@@ -46,7 +46,7 @@ sections:
         - **Aug 2024:** *AnoFPDM* accepted at **WACV 2025** for oral presentation.
     design:
       columns: '1'
-      css_class: 'bg-primary-100 dark:bg-gray-900 p-4 rounded-lg'
+      css_class: 'hbx-bg-gradient dark:bg-gray-900 p-4 rounded-lg'
   - block: resume-experience
     content:
       username: admin

@@ -29,23 +29,20 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: collection
+  - block: markdown
     id: news
     content:
       title: 📰 Recent News
       subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - news
-        exclude_future: false
-        exclude_past: false
-      count: 10      # Show 5 latest news items
-      order: desc
+      text: |-
+        - 🧠 **Nov 2025:** *DinoAtten3D* presented at **ICCV 2025** Medical AI Workshop in Seoul.
+        - 🧩 **Oct 2025:** *AnoFPDM* accepted at **WACV 2025** for oral presentation.
+        - 🩺 **Aug 2025:** *AUCp* paper submitted to **IEEE TMI** — introducing pseudo-AUC for unsupervised validation.
+        - 🧬 **Jun 2025:** Joined **Mayo Clinic–ASU AMCII** project on multimodal headache classification.
+        - 🪡 **Apr 2025:** Presented *Defect-Aware BIST Repair* at **ITC 2025** advanced packaging track.
     design:
-      view: compact
-      columns: 1
-      show_summary: false
+      columns: '1'
+      css_class: 'bg-primary-100 dark:bg-gray-900 p-4 rounded-lg'
   - block: resume-experience
     content:
       username: admin

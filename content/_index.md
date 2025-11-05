@@ -35,11 +35,15 @@ sections:
       title: 📰 Recent News
       subtitle: ''
       text: |-
-        - 🧠 **Nov 2025:** *DinoAtten3D* presented at **ICCV 2025** Medical AI Workshop in Seoul.
-        - 🧩 **Oct 2025:** *AnoFPDM* accepted at **WACV 2025** for oral presentation.
-        - 🩺 **Aug 2025:** *AUCp* paper submitted to **IEEE TMI** — introducing pseudo-AUC for unsupervised validation.
-        - 🧬 **Jun 2025:** Joined **Mayo Clinic–ASU AMCII** project on multimodal headache classification.
-        - 🪡 **Apr 2025:** Presented *Defect-Aware BIST Repair* at **ITC 2025** advanced packaging track.
+        - **Oct 2025:** *DinoAtten3D* presented at **ICCV 2025** ADFM Workshop in Hawaii.
+        - **Sep 2025:** Paper got accepted in **Nature Scietific Reports**
+        - **Aug 2025:** *AUCp* paper submitted to **IEEE TMI** — introducing pseudo-AUC for unsupervised validation.
+        - **Jul 2025:** Awarded for the **Graduate College Travel award**
+        - **Jul 2025:** Awarded for the **SCAI Travel Award** to presentn my paper @ **ICCV 2025**
+        - **May 2025:** Awarded for the **Gerald Farin Memorial Fellowship** for outstanding academic performance and research in **Computer Vision** 
+        - **Apr 2025:** Presented my abstract for Headache Classification using foundation models at **AAN 2025 Annual Meeeting** 
+        - **Feb 2025:** Presented *AnoFPDM* at **WACV 2025** application track.
+        - **Aug 2024:** *AnoFPDM* accepted at **WACV 2025** for oral presentation.
     design:
       columns: '1'
       css_class: 'bg-primary-100 dark:bg-gray-900 p-4 rounded-lg'

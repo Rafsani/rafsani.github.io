@@ -94,8 +94,8 @@ work:
     company_name: Arizona State University
     company_url: 'https://www.asu.edu/'
     icon: ''
-    date_start: 2013-08-07
-    date_end: 2019-12-31
+    date_start: 2023-08-07
+    date_end: 2023-12-31
     summary: |
       Served as a Teaching Associate for CSE 110, a programming-based computer science course. Delivered lectures across four sections, engaging and managing a cohort of over 350 students.
   - position: Software Engineer AI/ML

@@ -43,7 +43,7 @@ sections:
       count: 10      # Show 5 latest news items
       order: desc
     design:
-      view: card
+      view: compact
       columns: 1
   - block: resume-experience
     content:

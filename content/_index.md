@@ -29,6 +29,41 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: markdown
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+    #   page_type: blog
+    #   # Choose how many pages you would like to display (0 = all pages)
+    #   count: 5
+    #   # Filter on criteria
+    #   filters:
+    #     author: ''
+    #     category: ''
+    #     tag: ''
+    #     exclude_featured: false
+    #     exclude_future: false
+    #     exclude_past: false
+    #     publication_type: ''
+    #   # Choose how many pages you would like to offset by
+    #   offset: 0
+    #   # Page order: descending (desc) or ascending (asc) date.
+    #   order: desc
+    # # design:
+    # #   # Choose a layout view
+    # #   view: card
+    # #   # Reduce spacing
+    # #   spacing:
+    # #     padding: [0, 0, 0, 0]
+
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: 'bg-primary-300 dark:bg-primary-700'
+        css_style: ''
   - block: resume-experience
     content:
       username: admin
@@ -80,39 +115,5 @@ sections:
           - events
     design:
       view: card
-  - block: markdown
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-    #   page_type: blog
-    #   # Choose how many pages you would like to display (0 = all pages)
-    #   count: 5
-    #   # Filter on criteria
-    #   filters:
-    #     author: ''
-    #     category: ''
-    #     tag: ''
-    #     exclude_featured: false
-    #     exclude_future: false
-    #     exclude_past: false
-    #     publication_type: ''
-    #   # Choose how many pages you would like to offset by
-    #   offset: 0
-    #   # Page order: descending (desc) or ascending (asc) date.
-    #   order: desc
-    # # design:
-    # #   # Choose a layout view
-    # #   view: card
-    # #   # Reduce spacing
-    # #   spacing:
-    # #     padding: [0, 0, 0, 0]
 
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
 ---

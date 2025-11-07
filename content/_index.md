@@ -39,7 +39,7 @@ sections:
         - **Sep 2025:** Paper got accepted in **Nature Scietific Reports**
         - **Aug 2025:** *AUCp* paper submitted to **IEEE TMI** — introducing pseudo-AUC for unsupervised validation.
         - **Jul 2025:** Awarded for the **Graduate College Travel award**
-        - **Jul 2025:** Awarded for the **SCAI Travel Award** to presentn my paper @ **ICCV 2025**
+        - **Jul 2025:** Awarded for the **SCAI Travel Award** to present my paper @ **ICCV 2025**
         - **May 2025:** Awarded for the **Gerald Farin Memorial Fellowship** for outstanding academic performance and research in **Computer Vision** 
         - **Apr 2025:** Presented my abstract for Headache Classification using foundation models at **AAN 2025 Annual Meeeting** 
         - **Feb 2025:** Presented *AnoFPDM* at **WACV 2025** application track.
